@@ -122,9 +122,9 @@ const dataportfolio = [
 const contactConfig = {
   YOUR_EMAIL: "mdaakibalamansari@gmail.com",
   description: "Looking forward to hearing from you!",
-  YOUR_SERVICE_ID: "service_8eone23",
-  YOUR_TEMPLATE_ID: "template_n6em5j4",
-  YOUR_USER_ID: "XWS6sYiSqGxHPeZ_n",
+  YOUR_SERVICE_ID: "",
+  YOUR_TEMPLATE_ID: "",
+  YOUR_USER_ID: "",
 };
 
 const socialprofils = {
